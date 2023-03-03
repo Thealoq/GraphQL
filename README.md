@@ -1,4 +1,4 @@
-## GraphQL
+# GraphQL
 
-# I'm just learning GraphQL ✨
+## I'm just learning GraphQL ✨
 
